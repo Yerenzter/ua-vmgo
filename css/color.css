@@ -1,0 +1,13 @@
+:root {
+    --ua-red: #c6110a;
+    --ua-yellow: #fecc0d;
+    --ua-green: #069554;
+    --ua-blue: #110159;
+    --ua-black: #242424;
+    --ua-grey: #778890;
+    --ua-shadow: #333333ee;
+    --ua-white: #ffffff;
+    --ua-transparent: #00000000;
+    --ua-transparent-yellow: #fecc0d99;
+    --ua-transparent-white: #ffffff99;
+}
